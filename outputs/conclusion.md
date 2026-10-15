@@ -1,0 +1,1 @@
+The ANN achieved 97.37% test accuracy (111 correct predictions out of 114) after 30 epochs. The test set was kept separate from both training and validation, and scaling was fitted only on training rows. This is a classroom classification result on one split, not evidence of clinical readiness; results may vary across TensorFlow versions or hardware.

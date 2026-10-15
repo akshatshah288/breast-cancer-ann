@@ -1,0 +1,2 @@
+Model,Epochs,Test Loss,Test Accuracy
+ANN: 16-8-1,30,0.09368952363729477,0.9736841917037964

@@ -1,0 +1,23 @@
+{
+  "tensorflow": "2.21.0",
+  "keras": "3.15.1",
+  "sklearn": "1.8.0",
+  "seed": 42,
+  "train_rows": 364,
+  "validation_rows": 91,
+  "test_rows": 114,
+  "epochs": 30,
+  "batch_size": 32,
+  "architecture": [
+    16,
+    8,
+    1
+  ],
+  "parameters": 641,
+  "label_mapping": {
+    "B": 0,
+    "M": 1
+  },
+  "source_sha256": "1425d9affa78ba8e53afc81d0ef8a19069ee10c4b21fe89b3cf514071b12ee33",
+  "runner": "CPU with one core and one intra/inter-op thread; notebook code uses standard model.fit"
+}
